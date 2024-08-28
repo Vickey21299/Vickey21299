@@ -1,12 +1,23 @@
-<h3 align="center"> Hey there, I'm Vickey Kumar </h3>
+<h3 align="center"> Hey there, I'm Lakshay aka 標的 </h3>
 
 <p align="center">
-<a href="https://github.com/Vickey21299" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines= Software + Devloper , FullStack +Developer;Android + Devloper ;;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
+<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Manga+Enthusiast;Recreational+Programmer;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930" alt="hyouteki" /> </p>
+
+``` kotlin
+data class Hyouteki {
+  val fullName = "Lakshay Chauhan",
+  var age = 20,
+  val country = "IN",
+  val birthday = "28/01/2004",
+}
+```
+
 ### Socials
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vickey21299/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/lakshay21060/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LuckyDGreat)
 [![Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyouteki/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mainlakshayhoon/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nosferatu#0125)
