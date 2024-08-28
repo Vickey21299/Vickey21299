@@ -1,7 +1,7 @@
 <h3 align="center"> Hey there, I'm Lakshay aka 標的 </h3>
 
 <p align="center">
-<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Backend+Developer;DevOps+Programmer;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
+<a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Backend+Developer;Fullstack +DEveloper;DevOps+Programmer;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930" alt="hyouteki" /> </p>
