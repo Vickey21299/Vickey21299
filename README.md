@@ -6,14 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hyouteki&label=Profile%20views&color=301930" alt="hyouteki" /> </p>
 
-``` kotlin
-data class Hyouteki {
-  val fullName = "Lakshay Chauhan",
-  var age = 20,
-  val country = "IN",
-  val birthday = "28/01/2004",
-}
-```
+
 
 ### Socials
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vickey21299/)
