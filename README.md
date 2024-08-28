@@ -1,4 +1,4 @@
-<h3 align="center"> Hey there, I'm Lakshay aka 標的 </h3>
+<h3 align="center"> Hey there, I'm Vickey Kumar</h3>
 
 <p align="center">
 <a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Android+Developer;Backend+Developer;Fullstack+Developer;DevOps+Programmer;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
@@ -16,18 +16,11 @@ data class Hyouteki {
 ```
 
 ### Socials
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/lakshay21060/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/LuckyDGreat)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Vickey21299/)
 [![Linked in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyouteki/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mainlakshayhoon/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nosferatu#0125)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hyouteki.github.io/)
-[![MyAnimeList](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/Hyouteki)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshay21060@iiitd.ac.in)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Lakshay_2021060)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Vickey21299@iiitd.ac.in)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Vickey21299)
 [![GoodReads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://goodreads.com/ninthcircle)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mainlakshayhoon)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31v5izzempw42wfp46phlvb2qebq?si=50875ba21f134bb3)
 
 
 ### Toolbox
