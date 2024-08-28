@@ -57,6 +57,6 @@
 ### Statistics
 <p align="center">
 <img src ="https://github-readme-activity-graph.vercel.app/graph?username=Vickey21299&theme=tokyo-night&show_icons=true&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Recent activities" height="50%" width="auto"><br>
-<img src ="https://github-readme-stats.vercel.app/api?username=hyouteki&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hyouteki&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto"><br><br>
+<img src ="https://github-readme-stats.vercel.app/api?username=Vickey21299&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickey21299&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto"><br><br>
 </p>
