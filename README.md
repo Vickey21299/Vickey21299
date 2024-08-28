@@ -4,8 +4,6 @@
 <a href="https://github.com/Hyouteki" target="blank"> <img src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&width=380&height=45&lines=Backend+Developer;FullStack + Developer;DevOps; Android+Developer;;Nice+To+Meet+You+🙃&style=bold&center=true" alt="taking time to load" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vickey21299&label=Profile%20views&color=301930" alt="Vickey21299" /> </p>
-
 ``` kotlin
 data class Hyouteki {
   val fullName = "Lakshay Chauhan",
