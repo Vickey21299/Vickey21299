@@ -31,7 +31,7 @@ I build **Generative AI and Agentic AI systems** that don't just answer — they
 - 🔭 Working on **enterprise AI automation** & agentic workflows
 - 🤖 Building **LLM agents** with tools, memory & state
 - 📚 Designing **RAG pipelines** — chunking, embeddings, vector search
-- 🎙️ Shipping **voice assistants** with streaming STT/TTS
+- 🔬 Built an **AI Research Copilot** for cited, agent-driven research
 - 🌍 Passionate about **multilingual AI** for real-world impact
 - 🎓 IIIT Delhi
 
@@ -99,42 +99,69 @@ Docker · Linux · Git<br/>PostgreSQL · DevOps
 <!-- ====================== PROJECTS ====================== -->
 ## 🚀 Featured Projects
 
+<!-- Flagship project: full-width card -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🗓️ Real-Time Voice Scheduler Agent
+### 🔬 AI Research Copilot &nbsp; <img src="https://img.shields.io/badge/FLAGSHIP-7DF9FF?style=flat-square&labelColor=0d1117" />
 
-A real-time conversational agent that manages meetings and events through natural **voice or text**, with stateful context and **Google Calendar** integration.
+An **agentic research assistant** that searches, reads and synthesizes sources into clear, cited answers — turning hours of literature review into minutes. Built on **LLM agents + RAG** with tool orchestration for search, document parsing and summarization.
 
 <p>
+<img src="https://img.shields.io/badge/Agentic%20AI-6A1B9A?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-412991?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" />
-<img src="https://img.shields.io/badge/Voice%20AI-7DF9FF?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20Search-FF6F61?style=flat-square" />
 </p>
 
-<a href="https://github.com/Vickey21299/Google-Calendar-Schedular-Ai-Agent"><img src="https://img.shields.io/badge/View%20Project-→-0e75b6?style=for-the-badge&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Farmer AI Agent
-
-A **phone-call-based** AI assistant giving farmers weather, market, financial & agricultural guidance through natural **multilingual voice** conversations.
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Multilingual-2E7D32?style=flat-square" />
-</p>
-
-<a href="https://github.com/Vickey21299/Farmer-AI-Agent"><img src="https://img.shields.io/badge/View%20Project-→-0e75b6?style=for-the-badge&logo=github" /></a>
+<a href="https://github.com/Vickey21299?tab=repositories&q=research"><img src="https://img.shields.io/badge/View%20Code-0e75b6?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 Expense Claim
+
+An **AI-powered expense claim system** that automates receipt processing, extracts key details and streamlines submission and approval — cutting manual paperwork and errors.
+
+<p>
+<img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-2E7D32?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<a href="https://github.com/Vickey21299?tab=repositories&q=expense"><img src="https://img.shields.io/badge/View%20Code-0e75b6?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 TicVic Intercom
+
+A **real-time intercom & communication platform** enabling instant, seamless conversations between users — built for speed, reliability and a clean user experience.
+
+<p>
+<img src="https://img.shields.io/badge/Real--Time-E91E63?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<a href="https://github.com/Vickey21299?tab=repositories&q=intercom"><img src="https://img.shields.io/badge/View%20Code-0e75b6?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Vickey21299?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Projects-7DF9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+</p>
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🧰 Tech Stack
