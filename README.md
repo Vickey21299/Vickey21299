@@ -1,11 +1,11 @@
 <!-- ====================== HEADER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vickey%20Kumar&fontSize=60&fontColor=7DF9FF&animation=fadeIn&fontAlignY=36&desc=Generative%20AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20%26%20RAG%20Systems&descAlignY=58&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vickey%20Kumar&fontSize=60&fontColor=7DF9FF&animation=fadeIn&fontAlignY=36&desc=Generative%20AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20LLM%20and%20RAG%20Systems&descAlignY=58&descSize=18" width="100%" alt="Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Vickey21299">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=560&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;LLM+%7C+RAG+%7C+Tool+Orchestration;Real-Time+Voice+AI+%26+Conversational+Systems;Turning+ideas+into+intelligent+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=560&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;LLM+%7C+RAG+%7C+Tool+Orchestration;Real-Time+Voice+AI+and+Conversational+Systems;Turning+ideas+into+intelligent+products" alt="Typing SVG" />
   </a>
 </p>
 
